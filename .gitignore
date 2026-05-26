@@ -1,0 +1,8 @@
+.DS_Store
+.env*
+*.key
+credentials.json
+.openai/
+node_modules/
+dist/
+out/
